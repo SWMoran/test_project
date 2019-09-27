@@ -1,5 +1,5 @@
 
+This is a preliminary version of the repo for the Software Carpentry course.
 
-This is a test repo for Day2 of the Software Workshop.
 
 The repo contains information about fishing on the Ottawa river.
